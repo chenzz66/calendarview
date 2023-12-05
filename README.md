@@ -49,6 +49,13 @@ allprojects {
 ## 加入依赖
 
 ```
+implementation 'com.github.chenzz66:calendarview:3.7.1.43'
+
+```
+
+## 加入依赖
+
+```
 implementation 'com.github.angcyo:CalendarView:3.7.1.37'
 ```
 
