@@ -344,6 +344,7 @@ public abstract class BaseView extends View implements View.OnClickListener, Vie
                 mX = touchX;
                 mY = touchY;
                 isTouchDown = true;
+                isClick = true;
                 invalidate();
                 break;
             case MotionEvent.ACTION_MOVE:
